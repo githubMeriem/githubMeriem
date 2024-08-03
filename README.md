@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @githubMeriem
+- 👀 I’m interested in Web design and devloppment
+- 🌱 I’m currently learning web front-end
+- 💞️ I’m looking to collaborate on real world problem solving based on digital solutions
+- 📫 How to reach me on linkdin : www.linkedin.com/in/meriem-berrahou-306887261
+- 😄 Other interests : art , fashion , history ...
+- ⚡ Excited to learn all new in thech world and more!
